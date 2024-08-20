@@ -12,7 +12,7 @@ This project was completed as part of a web development bootcamp challenge, focu
 
 ## Deployed Application
 
-You can view the live application here: [Horiseon Digital Marketing Solutions](https://your-username.github.io/html-css-git-challenge/)
+You can view the live application here: [Horiseon Digital Marketing Solutions](https://github.com/pchoi87/Week1Challenge)
 
 ## Features
 
@@ -31,7 +31,7 @@ To view the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/html-css-git-challenge.git
+   git clone https://github.com/pchoi87/Week1Challenge
    ```
 2. Navigate to the project directory:
    ```bash
