@@ -12,7 +12,7 @@ This project was completed as part of a web development bootcamp challenge, focu
 
 ## Deployed Application
 
-You can view the live application here: [Horiseon Digital Marketing Solutions](https://github.com/pchoi87/html-css-git-challenge)
+You can view the live application here: [Horiseon Digital Marketing Solutions](https://pchoi87.github.io/html-css-git-challenge/#search-engine-optimization)
 
 ## Features
 
