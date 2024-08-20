@@ -46,13 +46,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - Thanks to the coding bootcamp for providing the starter code and guiding the challenge.
-- Special thanks to [your name] for refactoring and improving the codebase.
-
----
-
-### Instructions:
-
-1. **Replace** placeholders such as `your-username` with your actual GitHub username.
-2. **Replace** the screenshot path with the correct path to an actual screenshot of your deployed site.
-3. **Customize** any sections as needed, especially the "Acknowledgments" if you'd like to add anything personal.
-
